@@ -95,13 +95,6 @@ sudo pacman -S code nodejs python docker git
 - **JavaScript** - интерактивные элементы
 - **GitHub Pages** - хостинг
 
-## 📊 Статистика
-
-![GitHub repo size](https://img.shields.io/github/repo-size/arch-linux-dev-tools/arch-linux-dev-tools.github.io)
-![GitHub last commit](https://img.shields.io/github/last-commit/arch-linux-dev-tools/arch-linux-dev-tools.github.io)
-![GitHub Issues](https://img.shields.io/github/issues/arch-linux-dev-tools/arch-linux-dev-tools.github.io)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/arch-linux-dev-tools/arch-linux-dev-tools.github.io)
-
 ## 🤝 Как помочь проекту
 
 Мы приветствуем вклад в развитие проекта! Вот как вы можете помочь:
@@ -129,12 +122,5 @@ sudo pacman -S code nodejs python docker git
 
 ---
 
-<div align="center">
 
-### **Arch Linux Dev Tools** - сделаем разработку на Arch Linux ещё лучше! 🚀
-
-[⭐ Поставьте звезду на GitHub](https://github.com/arch-linux-dev-tools/arch-linux-dev-tools.github.io)
-
-
-</div>
 
