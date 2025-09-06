@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Arch Linux Dev Tools Preview](https://via.placeholder.com/800x400/2e3440/88c0d0?text=Arch+Linux+Dev+Tools+-+Modern+Developer+Tools+for+Arch)
+![Arch Linux Dev Tools Preview](/img/logo.png)
 
 **Мощные инструменты для разработчиков на Arch Linux**
 
@@ -119,6 +119,7 @@ sudo pacman -S code nodejs python docker git
 
 
 ---
+
 
 
 
