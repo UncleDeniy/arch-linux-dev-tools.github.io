@@ -3,7 +3,6 @@
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open_Source-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-2EA44F?style=for-the-badge)
 
 <div align="center">
 
@@ -141,5 +140,6 @@ cd arch-linux-dev-tools.github.io
 ### **Arch Linux Dev Tools** - сделаем разработку на Arch Linux ещё лучше! 🚀
 
 [⭐ Поставьте звезду на GitHub](https://github.com/arch-linux-dev-tools/arch-linux-dev-tools.github.io)
+
 
 </div>
