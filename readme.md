@@ -51,12 +51,6 @@ makepkg -si
 sudo pacman -S code nodejs python docker git
 ```
 
-### Клонирование репозитория
-
-```bash
-git clone https://github.com/arch-linux-dev-tools/arch-linux-dev-tools.github.io.git
-cd arch-linux-dev-tools.github.io
-```
 
 ## 📦 Основные инструменты
 
@@ -143,3 +137,4 @@ cd arch-linux-dev-tools.github.io
 
 
 </div>
+
